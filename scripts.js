@@ -13,9 +13,9 @@ async function converterMoedas() {
     let euro = moedas.EURBRL.high
 
 
-    console.log(dolar)
-    console.log(euro)
-    console.log(moedas)
+    //console.log(dolar)
+    //console.log(euro)
+    //console.log(moedas)
     // O comando "console.log (variavel ou evento)" é util pra monitorar se a aplicação esta funcionando como se espera.
 
 
