@@ -1,0 +1,125 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+
+}
+
+#cabecalho {
+    background: #16d60fc2;
+    width: 375px;
+    height: 90px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 75px;
+    
+}
+
+h1 {
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    
+}
+
+#caixa_principal {
+    background: #e5e5e5ad;
+    width: 375px;
+    padding: 24px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.paragrafo {
+    margin-bottom: 6px;
+    color: #1707f8;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.select {
+    background: #FFFFFF;
+    border: 1px solid #BBBBBB;
+    border-radius: 4px;
+    width: 327px;
+    height: 48px;
+    margin-bottom: 23px;
+    appearance: none;
+    outline: none;
+    cursor: pointer;
+    padding-left: 16px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#input {
+    width: 327px;
+    height: 48px;
+    background: #FFFFFF;
+    border: 1px solid #BBBBBB;
+    border-radius: 4px;
+    margin-bottom: 23px;
+    outline: none;
+    padding-left: 16px;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+
+#botao {
+    background: #CDD728;
+    border-radius: 25px;
+    display: block;
+    width: 327px;
+    height: 48px;
+    cursor: pointer;
+    border: none;
+    margin-bottom: 23px;
+    font-weight: bold;
+    font-size: 18px;
+    color: #1707f8;
+    outline: none;
+
+}
+
+#botao:active {
+    opacity: 0.6;
+}
+
+
+#caixa-interna {
+    border: 1px solid #f00b0b;
+    border-radius: 4px;
+    padding-bottom: 12px;
+    padding-top: 12px;
+
+
+}
+
+.caixa-menor {
+    text-align: center;
+
+}
+
+#seta {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.paragrafo-negrito {
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+body {
+    background-image: url(/img/Money.jpg) ;
+    background-size:cover;
+    
+}
